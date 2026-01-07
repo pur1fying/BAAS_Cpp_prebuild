@@ -1,0 +1,14 @@
+{
+  "ocr": {
+    "gpu_id": -1,
+    "num_thread": 4,
+    "enable_cpu_memory_arena": false,
+    "server": {
+      "host": "127.0.0.1",
+      "port": 1145
+    }
+  },
+  "log": {
+    "flush_interval": 1000
+  }
+}
